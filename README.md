@@ -1,33 +1,26 @@
-# 🎯 Desafio TechStore: Análise Exploratória de Vendas
-Bem-vindo ao projeto de análise de dados da TechStore! Este notebook foi desenvolvido como parte do desafio prático da Rocketseat para consolidar fundamentos de manipulação de dados com Python e Pandas.
+🛒 Desafio de Análise de Dados: TechStore
+Este repositório contém a resolução do desafio técnico de análise de dados da TechStore, utilizando Python, Pandas e NumPy.
 
-## 📋 Sobre o Desafio
-O objetivo é processar um arquivo CSV de vendas fictícias para extrair insights de negócio, realizar cálculos financeiros e gerar visualizações que facilitem a tomada de decisão.
+🎯 Objetivos do Projeto
+O projeto consistiu em processar e analisar o conjunto de dados (vendas.csv) para gerar insights sobre faturamento, comportamento de compra e saúde financeira do negócio.
 
-## 🛠️ Requisitos do Projeto
-Para concluir esta análise, as seguintes etapas foram implementadas:
-1.	Exploração Inicial: Carregamento de dados e verificação de integridade (tipos e contagem).
-2.	Engenharia de Dados: Criação da coluna Receita_Total ($Quantidade \times Preço$).
-3.	Análise de Negócio:
-o	Filtro segmentado para a categoria Eletrônicos.
-o	Identificação do Produto Campeão em volume de vendas.
-o	Mapeamento da Região Líder em faturamento.
-4.	Visualização e Exportação (Extra):
-o	Gráficos de barras e linhas (Matplotlib/Seaborn).
-o	Criação de Tabelas Dinâmicas.
-o	Exportação de relatórios em .xlsx e .pdf.
+🛠️ O que foi desenvolvido:
+EDA e Limpeza: Identificação de nulos e tratamento de dados ausentes.
 
-## 🚀 Como Executar no Colab
+Feature Engineering: Cálculo de receita por item (Receita_Total) e extração de períodos temporais (mês/ano).
 
-Ambiente: O projeto utiliza a biblioteca pandas e matplotlib.
+Análise Estatística: Uso de funções agregadoras para calcular o faturamento total e identificar lideranças de mercado.
 
-Execução: Execute as células em ordem sequencial para garantir que as variáveis (como o DataFrame df_dados) sejam instanciadas corretamente.
+Filtros Avançados: Segmentação de vendas para a categoria "Eletrônicos".
 
-## 📈 Resultados Esperados
-Ao final da execução, você verá:
+Visualização e Exportação: Criação de gráficos de barras e linha, além de exportação para formatos .xlsx e .pdf.
 
-Um resumo estatístico das vendas.
+📊 Principais Indicadores (KPIs)
+Produto Mais Vendido: [Insira o Nome Aqui]
 
-Gráficos comparativos entre categorias.
+Região Líder em Compras: [Insira a Região Aqui]
 
-Um arquivo pronto para download com o fechamento do mês.
+Receita Total: R$ [Insira o Valor Aqui]
+
+💻 Como visualizar
+Você pode acessar o código completo através do arquivo .ipynb neste repositório ou abrir diretamente no Google Colab.
