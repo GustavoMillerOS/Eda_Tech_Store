@@ -1,5 +1,5 @@
 
-🚀 Desafio TechStore: Análise Exploratória de Vendas
+🎯 Desafio TechStore: Análise Exploratória de Vendas
 Bem-vindo ao projeto de análise de dados da TechStore! Este notebook foi desenvolvido como parte do desafio prático da Rocketseat para consolidar fundamentos de manipulação de dados com Python e Pandas.
 
 📋 Sobre o Desafio
