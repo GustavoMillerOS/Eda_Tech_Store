@@ -23,7 +23,7 @@ ________________________________________
 ________________________________________
 # 📈 Resultados Esperados
 Ao final da execução, você verá:
-•	Um resumo estatístico das vendas.
-•	Gráficos comparativos entre categorias.
-•	Um arquivo pronto para download com o fechamento do mês.
+*	Um resumo estatístico das vendas.
+*	Gráficos comparativos entre categorias.
+*	Um arquivo pronto para download com o fechamento do mês.
 
